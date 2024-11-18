@@ -62,8 +62,7 @@ To run the analysis, the following dependencies and tools are required:
 ### 1. **Setup**
    - Clone the repository:
      ```bash
-     git clone https://github.com/LoznianuAnamaria/challenges.git
-     cd challenges/Crypto\ Market\ -\ Impact\ of\ Google\ Trends/
+     git clone https://github.com/Mayuresh308/Crypto-Market.git
      ```
    - Install dependencies:
      ```bash
